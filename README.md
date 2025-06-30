@@ -1,4 +1,4 @@
-# 📝 Intern Task: Attendance Page – Check-In with Image
+# 📝 Intern (Not really) Task: Attendance Page – Check-In with Image
 
 ## 🎯 Goal
 Create a frontend-only Attendance Page for a single attendance record.
